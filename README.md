@@ -34,3 +34,6 @@ set `SHELLY4B_EXPORTER_PORT` envionment variable to port number you desire, defa
 
 ### Pre-Compiled Binaries
 see Release section for pre-compiled binaries like this one [v0.1.0](https://github.com/jbremmer/shelly4b_exporter/releases/tag/v0.1.0)
+
+### Sample Grafana Dashboard
+See [.grafana/shelly4b.json](https://github.com/jbremmer/shelly4b_exporter/blob/main/.grafana/shelly4b.json) for sample Grafana Dashboard
