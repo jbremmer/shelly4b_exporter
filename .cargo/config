@@ -1,0 +1,6 @@
+[build]
+#target = "arm-unknown-linux-gnueabihf"
+
+[target.arm-unknown-linux-gnueabihf]
+# linker = "C:\\SysGCC\\raspberry\\bin\\arm-linux-gnueabihf-gcc.exe"
+# linker = "C:\\Users\\jakub\\gcc-linaro-5.5.0-2017.10-i686-mingw32_arm-linux-gnueabihf\\bin\\arm-linux-gnueabihf-gcc.exe -marm -march=armv6"
