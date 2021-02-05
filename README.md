@@ -32,3 +32,5 @@ shelly4b_relay_meter_total{name="None",pos="0"} 9902481
 ### Port Setting
 set `SHELLY4B_EXPORTER_PORT` envionment variable to port number you desire, defaults to `9048`.
 
+### Pre-Compiled Binaries
+see Release section for pre-compiled binaries like this one [v0.1.0](https://github.com/jbremmer/shelly4b_exporter/releases/tag/v0.1.0)
